@@ -39,7 +39,7 @@ class Solution:
             if items % 2 == 0:
                 self.maxlength += int(items)
         if 1 in self.dic.values():
-            for items in self.dic.values()
+            for items in self.dic.values():
 
 
         return self.maxlength
